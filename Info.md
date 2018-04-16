@@ -2,7 +2,7 @@
 ## Befehlsübersicht
 
 
-* dig <host> (DNS lookup Werkzeug)
-* ip a Zeige (Netzwerkkonfiguration)
-* find<ort>-iname<m> (Suche Datei mit Muster m)
-* dmesg (Zeige kernel ring buffer)
+*null dig <host> (DNS lookup Werkzeug)
+*null ip a Zeige (Netzwerkkonfiguration)
+*null find<ort>-iname<m> (Suche Datei mit Muster m)
+*null  dmesg (Zeige kernel ring buffer)
