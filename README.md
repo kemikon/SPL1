@@ -4,6 +4,12 @@
 * python for windows installiert
 * cmder for windows installiert
 * visual studio code installiert
+
 * github Registrierung 
 * github "Erste Schritte"
 * git Grundlagen
+
+## Lokales Arbeiten mit git
+
+* git config erstellen 
+* git repositiry clonen 
