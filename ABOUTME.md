@@ -8,3 +8,8 @@
 * Flying
 * Playing Computer Games
 * Skiing
+
+## Programming Skills
+* Java
+* Python
+* HTML
